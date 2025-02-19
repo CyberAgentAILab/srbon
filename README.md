@@ -93,18 +93,19 @@ Finally, running the **SRBoN** computation with 100 candidates:
 ```bash
 python3 stochastic_rbon/stochastic_rbon.py --dataset alpaca --ncandidates 100
 ```
-<!-- ## Reference
+## Reference
 Yuki, I., Jinnai, Y., Morimura, T., Abe, K., Ariu, K., Sakamoto, M., and Uchibe, E. "Evaluation of Best-of-N Sampling Strategies for Language Model Alignment."
 
 Bibtex:
 ```bash
 @article{
-anonymous2024evaluation,
+ichihara2025evaluation,
 title={Evaluation of Best-of-N Sampling Strategies for Language Model Alignment},
-author={Anonymous},
-journal={Submitted to Transactions on Machine Learning Research},
-year={2024},
+author={Yuki Ichihara and Yuu Jinnai and Tetsuro Morimura and Kenshi Abe and Kaito Ariu and Mitsuki Sakamoto and Eiji Uchibe},
+journal={Transactions on Machine Learning Research},
+issn={2835-8856},
+year={2025},
 url={https://openreview.net/forum?id=H4S4ETc8c9},
-note={Under review}
+note={}
 }
-``` -->
+```
